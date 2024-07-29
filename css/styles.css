@@ -422,7 +422,8 @@ footer .copyright{
 
     .showcase .text-sec .images img,
     .showcase .image-sec img{
-        width: 30%;
+        width: 50%;
+        height: 50%;
     }
 
     .services .header{
